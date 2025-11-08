@@ -1,5 +1,4 @@
-# Aikansh-Arora
-Aikansh Arora (23): BCA from Kurukshetra University, now a UI/UX Designer preparing for a Master's degree. Driven by design and future aspirations.
+
 ✈️ VibeTravel: An App for Your Perfect Trip (Figma Design)
 VibeTravel is a conceptual mobile application design crafted in Figma, dedicated to showcasing a modern and sophisticated approach to digital trip planning. The goal was to create a visual experience that is as inspiring and effortless as the perfect trip itself. This repository contains the high-fidelity design files that embody a philosophy of simplicity, effectiveness, and minimalist elegance.
 
